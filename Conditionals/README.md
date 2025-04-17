@@ -14,8 +14,8 @@ In Python, conditional statements (`if`, `elif`, `else`) allow you to control th
 |------------------------------|:--------------:|:------------:|
 | **Meltdown Mitigation**      | ✅ Published  | 2          |
 | **Bob**                      | ✅ Published  | 1          |
-| **Pig Latin**                | Available     | —          |
-| **Raindrops**                | Available     | —          |
+| **Pig Latin**                | ✅ Published      | 1          |
+| **Raindrops**                | ✅ Published      | 1         |
 | **Matching Brackets**        | 🔒 Locked    | —          |
 
 
